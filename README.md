@@ -6,3 +6,5 @@ Tossed these components together to represent waste labels as I needed for my pr
 Built with the Lato font from fonts.google.com
 
 Pacakaging pending when I have the time to learn how things needs be set up. Until then, individual files suffice.
+
+Bootstrap in use here.
